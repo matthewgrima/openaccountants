@@ -8,9 +8,7 @@ metadata:
   jurisdiction: "MT"
   tax_year: "2026"
   last_updated: "2026-10-05"
-  authored_by: "Michael Cutajar, CPA, ACCA"
-  trust_label: "Accountant-authored"
-  review_status: "pending_review"
+  reviewed_by: "Michael Cutajar"
 ---
 
 # Malta foundations and trusts for family wealth: how they are taxed
@@ -230,24 +228,6 @@ The tax due is the higher of the final tax and the floor. If the six-sevenths re
 - [Trusts and Trustees Act, Cap. 331](https://legislation.mt/eli/cap/331/eng/pdf): articles 3, 6A, 6B, 43, 43A
 - [Trusts and Trustees Act (Register of Beneficial Owners) Regulations, S.L. 331.10](https://legislation.mt/eli/sl/331.10/eng/pdf)
 - [Duty on Documents and Transfers Act, Cap. 364](https://legislation.mt/eli/cap/364/eng/pdf): articles 32, 32B, 32D, 41C, 42, 42(2), 42A
-
-<!-- openaccountants-cta-block -->
-
----
-
-## Talk to a verified accountant
-
-This guide is maintained by the OpenAccountants network — accountants who put
-their name behind the tax answers AI gives people. The live, always-current
-version (and the professional behind it) is at
-[openaccountants.com](https://www.openaccountants.com).
-
-- Use it in your AI: https://www.openaccountants.com/connect
-- Meet the accountants: https://www.openaccountants.com/network
-
-> **General reference only.** This document does not constitute tax, legal, or
-> financial advice. Verify figures against the cited primary sources or with a
-> licensed professional before relying on them.
 
 ## Today's figures and who stands behind this skill
 

@@ -8,9 +8,6 @@ metadata:
   jurisdiction: "MT"
   tax_year: "2026"
   last_updated: "2026-10-16"
-  authored_by: "Michael Cutajar and the OpenAccountants team"
-  trust_label: "Built by Michael Cutajar and the OpenAccountants team"
-  review_status: "pending_review"
 ---
 
 # Malta payroll: FSS tax withholding, Class 1 social security, Maternity Fund, statutory bonuses and FS3/FS5/FS7
@@ -266,24 +263,6 @@ The Commissioner serves a default notice. The payer must rectify and pay "within
 - [ ] FS5 and payment by the last working day of the following month, including nil months
 - [ ] FS3 to payees by 31 January (seven days on termination); FS7 with FS3 originals by 15 February
 - [ ] Any 2025 FS3 or FS7 still outstanding has been filed
-
-<!-- openaccountants-cta-block -->
-
----
-
-## Talk to a verified accountant
-
-This guide is maintained by the OpenAccountants network — accountants who put
-their name behind the tax answers AI gives people. The live, always-current
-version (and the professional behind it) is at
-[openaccountants.com](https://www.openaccountants.com).
-
-- Use it in your AI: https://www.openaccountants.com/connect
-- Meet the accountants: https://www.openaccountants.com/network
-
-> **General reference only.** This document does not constitute tax, legal, or
-> financial advice. Verify figures against the cited primary sources or with a
-> licensed professional before relying on them.
 
 ## Today's figures and who stands behind this skill
 

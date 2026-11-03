@@ -8,9 +8,7 @@ metadata:
   jurisdiction: "MT"
   tax_year: "2026"
   last_updated: "2026-10-23"
-  authored_by: "Michael Cutajar and the OpenAccountants team"
-  trust_label: "Built by Michael Cutajar and the OpenAccountants team"
-  review_status: "pending_review"
+  reviewed_by: "Michael Cutajar"
 ---
 
 # Moving to Malta: residence routes, the remittance basis, and what Malta actually taxes v1.1
@@ -215,24 +213,6 @@ Not yet confirmed:
 - The Global Residence Programme and Nomad Residence Permit figures were checked against MTCA's guidelines, not the rules themselves.
 - LN 20/2026 rule 3(1) raises the EUR 65,000 minimum by EUR 10,000 "every five (5) years with effect from the year subsequent to the year in which these rules come into force". Whether the first increase falls in 2027 or five years later is not settled by the text.
 - Budget 2027 is presented on 26 October 2026; nothing from it is reflected here.
-
-<!-- openaccountants-cta-block -->
-
----
-
-## Talk to a verified accountant
-
-This guide is maintained by the OpenAccountants network — accountants who put
-their name behind the tax answers AI gives people. The live, always-current
-version (and the professional behind it) is at
-[openaccountants.com](https://www.openaccountants.com).
-
-- Use it in your AI: https://www.openaccountants.com/connect
-- Meet the accountants: https://www.openaccountants.com/network
-
-> **General reference only.** This document does not constitute tax, legal, or
-> financial advice. Verify figures against the cited primary sources or with a
-> licensed professional before relying on them.
 
 ## Today's figures and who stands behind this skill
 
